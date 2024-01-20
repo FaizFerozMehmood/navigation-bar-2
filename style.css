@@ -1,0 +1,48 @@
+div {
+    height: 100px;
+    width: 200px;
+    background-color: pink;
+    border-width: 5px;
+    border-style: solid;
+
+}
+
+h1 {
+
+    width: 100px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: blueviolet;
+    padding: 100px 110px 100px 120px;
+    margin-top: 100px;
+    margin-left: 500px;
+    text-align: center;
+    background-color: black;
+    color: azure;
+}
+
+p {
+    height: 100px;
+    width: 600px;
+    border-style: solid;
+    border-width: 100px;
+    border-color: black;
+    padding: 0px 0px 3px 50px;
+    margin: 2px 0px 30px 325px;
+    background-color: brown;
+    color: blanchedalmond;
+    text-decoration: underline cornflowerblue;
+    font-size: 70px;
+    text-align: center;
+}
+div{
+    height: 100px;
+    width: 800px;
+    border: 2px double black;
+    padding-left: 1px;
+    margin: 2px 0px 50px 350px;
+    font-size: 50px;
+    text-transform: uppercase;
+    text-align: center;
+    color:deeppink;
+}
